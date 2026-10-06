@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-<h2 align="center">ISHAAN</h2>
+<h2 align="center">ISHAN</h2>
 
 <p align="center">
   <code>Python Developer</code> • <code>CTF Player</code> • <code>AI Explorer</code> • <code>Cyber Enthusiast</code>
@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/9ix7ven">GitHub</a> •
   <a href="https://discord.com/users/773849193587539968">Discord</a> •
-  <a href="mailto:shadowdevx@tech.me">Mail</a>
+  <a href="mailto:xpbullshit@gmail.com">Mail</a>
 </p>
 
 <br/>
